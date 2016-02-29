@@ -1,6 +1,7 @@
 /*
  *
- * Write a method named printMultiples that accepts an integer n and an integer m as parameters and that prints a complete line of output reporting the first m multiples of n.
+ * Write a method named printMultiples that accepts an integer n and an integer m as parameters
+ * and that prints a complete line of output reporting the first m multiples of n.
  * For example, the following calls:
  *
  * printMultiples(3, 5);

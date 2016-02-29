@@ -2,14 +2,18 @@
  * Write a method named sequenceSum that prints terms of the following mathematical sequence:
  * 1 + 1/2 + 1/3 + 1/4 + 1/5 + 1/6 ...
  *
- * Your method should accept a real number as a parameter representing a limit, and should add and print terms of the sequence until the sum of terms meets or exceeds that limit.
- * For example, if your method is passed 2.0, print terms until the sum of those terms is at >= 2.0. You should round your answer to 3 digits past the decimal point.
+ * Your method should accept a real number as a parameter representing a limit,
+ * and should add and print terms of the sequence until the sum of terms meets or exceeds that limit.
+ * For example, if your method is passed 2.0, print terms until the sum of those terms is at >= 2.0.
+ * You should round your answer to 3 digits past the decimal point.
  *
  * The following is the output from the call sequenceSum(2.0);
  *
  * 1 + 1/2 + 1/3 + 1/4 = 2.083
  *
- * (Despite the fact that the terms keep getting smaller, the sequence can actually produce an arbitrarily large sum if enough terms are added.)
+ * (Despite the fact that the terms keep getting smaller, the sequence can actually produce an arbitrarily large sum
+ * if enough terms are added.)
+ *
  * If your method is passed a value less than 1.0, no output should be produced.
  * You must match the output format shown exactly; note the spaces and pluses separating neighboring terms.
  *

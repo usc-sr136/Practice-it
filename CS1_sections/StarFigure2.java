@@ -1,5 +1,6 @@
 /*
- * Modify your StarFigure code from the previous problem to use a constant for the size. The outputs below use a constant size of 3 (left) and 6 (right):
+ * Modify your StarFigure code from the previous problem to use a constant for the size.
+ * The outputs below use a constant size of 3 (left) and 6 (right):
  *
  * ////////\\\\\\\\           ////////////////////\\\\\\\\\\\\\\\\\\\\
  * ////*********\\\\          ////////////////********\\\\\\\\\\\\\\\\
