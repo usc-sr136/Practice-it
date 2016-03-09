@@ -40,10 +40,10 @@ class Leader {
                 System.out.print(" ");
             }
 
-            System.out.print("Go ");
+            System.out.print("Go");
 
             for (int j = 0; j < cheers - 1; j++) {
-                System.out.print("Team Go ");
+                System.out.print(" Team Go");
             }
 
             System.out.println();
